@@ -5,3 +5,4 @@ append new Line.
 My stupid boss prefers SVN.
 Creating a new branch is quick.
 Crateing a new branch is quck & simple.
+try params --no-ff
